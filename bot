@@ -1,4 +1,4 @@
-var GLITCH_URL = "https://discord.com/developers/applications/810468592986095627/information";
+var GLITCH_URL = "https://aperture-games-discord-bot.glitch.me/";
 function wakeGlitch(){
  var json = {
    'type':'wake'
